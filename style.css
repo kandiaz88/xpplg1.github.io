@@ -123,6 +123,10 @@ p {
   color: #ffff;
 }
 
+.about p {
+  font-weight: 200;
+}
+
 /* DEKSTOP VERSION */
 @media (min-width: 992px) {
   .navbar-brand,
